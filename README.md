@@ -1,4 +1,3 @@
-```markdown
 # GALI Energy Data System
 
 GALI is an experimental renewable energy data system exploring how sunlight measurements can be converted into structured, tamper-evident digital records.
