@@ -160,12 +160,3 @@ Keith Laurendine Jr.
 ## License
 
 MIT
-```
-
-Then save it and run:
-
-```bash
-git add README.md
-git commit -m "Improve setup and verification documentation"
-git push origin main
-```
