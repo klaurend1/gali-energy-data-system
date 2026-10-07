@@ -18,3 +18,13 @@ Each simulated sunlight reading is converted into tokens using:
 
 ```text
 tokens = intensity / 100
+
+## Hardware Prototype Data
+
+The `data/first_hardware_test.csv` dataset contains measurements collected during early GALI hardware experiments.
+
+Each record includes sensor measurements, calculated token values, and cryptographic hashes linking records together.
+
+This creates a tamper-evident measurement history where each record references the hash of the previous record.
+
+The dataset is preserved as an original experimental artifact and is not overwritten by the simulation.
